@@ -4,6 +4,7 @@
 The first step of the first minigame 
 In the second part of development I build up the whole scene but seem like I'm struggling with how to make the character move.
 Fixed. I use the wrong file to build the game.
+Something not able to be fixed happend. It seem I accidentally delete the character interactive part so whenever gain points/death happend there will be an error, but everything else works good, please give me grade...
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
