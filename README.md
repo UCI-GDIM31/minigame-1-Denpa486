@@ -2,6 +2,7 @@
 # minigame-1
 ## Devlog
 The first step of the first minigame 
+In the second part of development I build up the whole scene but seem like I'm struggling with how to make the character move.
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
